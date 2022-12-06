@@ -1,0 +1,3 @@
+D:/KURSOVAYA PACMAN/pacman 0.6/cmake-build-debug/CMakeFiles/pacman_0_6.dir
+D:/KURSOVAYA PACMAN/pacman 0.6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/KURSOVAYA PACMAN/pacman 0.6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
